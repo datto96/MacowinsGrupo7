@@ -37,7 +37,7 @@ public class PrendaTest{
 		macowins.addVenta(venta1);
 		macowins.addVenta(venta2);
 		macowins.addVenta(venta3);
-		Assert.assertEquals(1510, macowins.gananciasDelDia(hoy),1);
+		Assert.assertEquals(1560, macowins.gananciasDelDia(hoy),1);
 	}
 	
 	@Test
